@@ -18,3 +18,10 @@
   #### Fazendo push no Repertório Remoto
   `git push -u origin main`
 
+  #### Adicionando todos os arquivos do repositório local
+  `git add .`
+
+  #### Fazendo push para todos os aquivos 
+  `git push origin main`
+
+
